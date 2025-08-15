@@ -1,0 +1,1 @@
+jwt.Register file has user from which you can login and check for user and attaching postman collection for result confirmation (events.postman_collection.json)
